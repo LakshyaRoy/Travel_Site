@@ -41,7 +41,7 @@ const NavBar = () => {
           variant="btn_dark_green"
         />
       </div>
-      <div>
+      <div className="lg:hidden">
         <Image
           src="./menu.svg"
           alt="menu"
@@ -51,7 +51,7 @@ const NavBar = () => {
           onClick={toggleMenu}
         />
         {menuOpen && (
-          <div className="  sm-full sm:flex flex-col items-end absolute top-14 right-5 gap-2 p-1">
+          <div className="  sm-full sm:flex xs:flex flex-col items-end absolute top-14 right-5 gap-2 p-1 max-xs:flex ">
             {NAV_LINKS.map((links) => (
               <span>
                 <Link
