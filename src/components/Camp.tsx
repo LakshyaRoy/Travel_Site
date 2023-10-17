@@ -1,7 +1,7 @@
 import React from "react";
 
 const Camp = () => {
-  return <div>Camp</div>;
+  return <div>Camp kal karuga :</div>;
 };
 
 export default Camp;
