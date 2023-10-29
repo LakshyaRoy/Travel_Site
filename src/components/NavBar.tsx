@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { NAV_LINKS } from "../../Contants";
-import Button from "./button";
+import Button from "./Button";
 import { useState } from "react";
 
 const NavBar = () => {
