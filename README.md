@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HiLink Travel Tours
 
-## Getting Started
+## 🌐 Overview
 
-First, run the development server:
+**HiLink Travel Tours** is a beautifully designed single-page application (SPA) serving as a homepage for a travel and tour company. Developed using **TypeScript**, **Next.js**, and **Tailwind CSS**, this project showcases a modern and responsive UI, created as part of a learning journey into Next.js and TypeScript.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Responsive Design**: Ensures optimal viewing across various devices and screen sizes.
+- **Single Page Application**: Smooth navigation without full page reloads.
+- **Modern UI**: Aesthetically pleasing design with intuitive user experience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Build Tool**: Vite
 
-## Learn More
+## 🚀 Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+Experience the live version of the project: [HiLink Travel Tours](https://travel-tour-hilink.netlify.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📂 Project Setup
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To run this project locally:
 
-## Deploy on Vercel
+1. **Clone the repository**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   git clone https://github.com/LakshyaRoy/Travel_Site.git
+   cd Travel_Site
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in Browser**
+   Visit `http://localhost:3000/` to view the project.
+
+## 📈 Learning Outcomes
+
+This project was instrumental in gaining hands-on experience with:
+
+- Setting up and configuring Next.js with TypeScript.
+- Implementing responsive designs using Tailwind CSS.
+- Understanding the fundamentals of single-page applications.
+
+## 🤝 Contributions
+
+Contributions are welcome! If you'd like to enhance this project, please fork the repository, create a new branch, and submit a pull request.
+
+## 📧 Contact
+
+For any inquiries or feedback, feel free to reach out.
+
+---
+
+Let me know if you need any further modifications or details!
